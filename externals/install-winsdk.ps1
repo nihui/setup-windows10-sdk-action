@@ -45,7 +45,7 @@ function Download-File {
     }
 
     if ($buildNumber -eq "19041") {
-        $downloadURL = "https://go.microsoft.com/fwlink/?linkid=2120843"
+        $downloadURL = "https://go.microsoft.com/fwlink/?linkid=2312004"
     }
 
     if ($buildNumber -eq "20348") {
@@ -57,11 +57,11 @@ function Download-File {
     }
 
     if ($buildNumber -eq "22621") {
-        $downloadUrl = "https://go.microsoft.com/fwlink/?linkid=2249825"
+        $downloadUrl = "https://go.microsoft.com/fwlink/?linkid=2312900"
     }
 
     if ($buildNumber -eq "26100") {
-        $downloadUrl = "https://go.microsoft.com/fwlink/?linkid=2286663"
+        $downloadUrl = "https://go.microsoft.com/fwlink/?linkid=2338787"
     }
 
     try {
